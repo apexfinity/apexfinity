@@ -19,4 +19,14 @@
 - 🌐 My website: https://apexfinity.ga
 - ⚡ Fun fact: Nobody is a perfect programmer. We all have to learn.
 
+<h1 align="center"> 
+My Github Stats
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=apexfinity&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Stats" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apexfinity&theme=dark" alt="Streaks" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apexfinity&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Most Used Languages" /><br>
+</p>
+
+
 
