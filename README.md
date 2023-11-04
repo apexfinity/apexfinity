@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with learning programming languages.
 - 💬 Ask me about what I am working on.
 - 📫 How to reach me: https://dsc.gg/apexfinity
-- 🌐 My website: https://apexfinity.ga
+- 🌐 My website: taken down [thanks to Meta](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
 - ⚡ Fun fact: Nobody is a perfect programmer. We all have to learn.
 
 <h1 align="center"> 
