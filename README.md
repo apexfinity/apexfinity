@@ -1,5 +1,5 @@
 
-<a href="https://apexfinity.ga"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=750&height=62&lines=Hi!+I+am+Apexfinity!;I+am+a+programmer%2C+learning+multiple+languages.;My+website%3A+https%3A%2F%2Fapexfinity.ga;Discord%3A+https%3A%2F%2Fdsc.gg%2Fapexfinity;I+use+Arch+BTW!;Javascript+aint+bad.;C%23+is+cool;You've+been+here+for+too+long%2C+go+do+something+productive!" alt="Typing SVG" /></a>
+<a href="https://apexfinity.ga"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=750&height=62&lines=Hi!+I+am+Apexfinity!;I+am+a+programmer%2C+learning+multiple+languages.;My+website%3A+no longer exists!;Discord%3A+https%3A%2F%2Fdsc.gg%2Fapexfinity;I+use+Arch+BTW!;Javascript+aint+bad.;C%23+is+cool;You've+been+here+for+too+long%2C+go+do+something+productive!" alt="Typing SVG" /></a>
 <p align="center">
 <img alt="Home" src="https://apexfinityga.vercel.app/logo.png" width="100" height="100">
 </p>
