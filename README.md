@@ -1,5 +1,4 @@
-
-<a href="https://apexfinity.ga"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=750&height=62&lines=Hi!+I+am+Apexfinity!;I+am+a+programmer%2C+learning+multiple+languages.;My+website%3A+no longer exists!;Discord%3A+https%3A%2F%2Fdsc.gg%2Fapexfinity;I+use+Arch+BTW!;Javascript+aint+bad.;C%23+is+cool;You've+been+here+for+too+long%2C+go+do+something+productive!" alt="Typing SVG" /></a>
+[![luh crank](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F723&center=true&vCenter=true&random=false&width=435&lines=01010101010101001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010;101010101011010101010101010101011010101010;Quick+fo01010101010101001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010x+jumps+nightly+above+wizard;101010101011010101010101010101011010101010)](https://git.io/typing-svg)
 <p align="center">
 <img alt="Home" src="https://apexfinityga.vercel.app/logo.png" width="100" height="100">
 </p>
