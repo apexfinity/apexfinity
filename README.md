@@ -9,7 +9,7 @@
 
 <!-- - 👯 I’m looking to collaborate on -->
 - 🎮 I play videogames (such as Minecraft, CS:GO, and old Sonic games.
-- 🐧 I use Arch Linux (soon:tm:)
+- 🐧 I use Windows/Fedora (win4L)
 - 🔭 I’m currently working on my site and 4school.
 - 🌱 I’m currently learning JavaScript, NodeJS, C#, C, and C++!
 - 🤔 I’m looking for help with learning programming languages.
