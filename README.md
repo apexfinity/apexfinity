@@ -8,7 +8,7 @@
 **"An active mind, is an active mind." - Stan LePard**
 
 <!-- - 👯 I’m looking to collaborate on -->
-- 🎮 I play videogames (such as Minecraft, CS:GO, and old Sonic games.
+- 🎮 I play videogames (such as CS2)
 - 🐧 I use Windows/Fedora (win4L)
 - 🔭 I’m currently working on my site and 4school.
 - 🌱 I’m currently learning JavaScript, NodeJS, C#, C, and C++!
